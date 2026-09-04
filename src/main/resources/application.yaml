@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: eda-e-commerce-order-platform
